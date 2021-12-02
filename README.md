@@ -1,6 +1,5 @@
-# Beginning-Projects
-Some Projects
- 1. Reddit Webscraper
+# Reddit Webscraper
+
     A. CONFIG
     B. csv func
     c. redd.py
